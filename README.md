@@ -1,2 +1,3 @@
 # Git_practice
-Interaction with Git and GitHub CLI
+Interaction with Git and GitHub CLI with ALX
+
